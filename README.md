@@ -1,7 +1,7 @@
 # Raspberry Pi
 This is just a collection of tips and tricks coming handy when working with the Raspberry Pi 3.
 
-Remote control
+##Remote control
 ngrok
 https://kodyvajjha.wordpress.com/2015/06/24/ssh-ing-into-the-raspberry-pi-over-the-internet/
 
@@ -10,8 +10,7 @@ Install guide: Raspberry Pi 3 + Raspbian Jessie + OpenCV 3
 http://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/
 
 
-Tensorflow
-----------
+##Tensorflow
 For Python 2.7
 $ sudo apt-get install python-pip python-dev
 
@@ -26,8 +25,7 @@ For Python 3.3+
 $ wget https://github.com/samjabrahams/tensorflow-on-raspberry-pi/raw/master/bin/tensorflow-0.9.0-py3-none-any.whl
 $ sudo pip install tensorflow-0.9.0-py3-none-any.whl
 
-Docker
-------
+##Docker
 While we’ve noticed people using Docker on Raspberry Pi for a while now, the latest release officially includes Raspbian Jessie installation support. You can now install the Docker client on your Raspberry Pi with just one terminal command:
 
 curl -sSL get.docker.com | sh
