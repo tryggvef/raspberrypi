@@ -2,7 +2,7 @@
 This is just a collection of tips and tricks coming handy when working with the Raspberry Pi 3.
 
 ###Remote control
-ngrok
+ngrok 
 https://kodyvajjha.wordpress.com/2015/06/24/ssh-ing-into-the-raspberry-pi-over-the-internet/
 
 ###OpenCv
