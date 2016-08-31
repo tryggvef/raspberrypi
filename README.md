@@ -6,7 +6,6 @@ ngrok
 https://kodyvajjha.wordpress.com/2015/06/24/ssh-ing-into-the-raspberry-pi-over-the-internet/
 
 ##OpenCv
-------
 Install guide: Raspberry Pi 3 + Raspbian Jessie + OpenCV 3
 http://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/
 
