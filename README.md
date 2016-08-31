@@ -5,7 +5,7 @@ Remote control
 ngrok
 https://kodyvajjha.wordpress.com/2015/06/24/ssh-ing-into-the-raspberry-pi-over-the-internet/
 
-OpenCv
+##OpenCv
 ------
 Install guide: Raspberry Pi 3 + Raspbian Jessie + OpenCV 3
 http://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/
@@ -13,17 +13,17 @@ http://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-je
 
 Tensorflow
 ----------
-# For Python 2.7
+For Python 2.7
 $ sudo apt-get install python-pip python-dev
 
-# For Python 3.3+
+For Python 3.3+
 $ sudo apt-get install python3-pip python3-dev
 
-# For Python 2.7
+For Python 2.7
 $ wget https://github.com/samjabrahams/tensorflow-on-raspberry-pi/raw/master/bin/tensorflow-0.9.0-cp27-none-linux_armv7l.whl
 $ sudo pip install tensorflow-0.9.0-cp27-none-linux_armv7l.whl
 
-# For Python 3.3+
+For Python 3.3+
 $ wget https://github.com/samjabrahams/tensorflow-on-raspberry-pi/raw/master/bin/tensorflow-0.9.0-py3-none-any.whl
 $ sudo pip install tensorflow-0.9.0-py3-none-any.whl
 
