@@ -3,7 +3,6 @@ This is just a collection of tips and tricks coming handy when working with the 
 
 ###Remote control
 ngrok
-
 https://kodyvajjha.wordpress.com/2015/06/24/ssh-ing-into-the-raspberry-pi-over-the-internet/
 
 ###OpenCv
