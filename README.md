@@ -43,3 +43,10 @@ http://thejackalofjavascript.com/rpi-live-streaming/
     sudo apt-get update
     sudo apt-get install chromium-browser rpi-youtube -y
     
+### The Pi Camera   
+[Link to page] (http://www.rs-online.com/designspark/electronics/eng/knowledge-item/raspberry-pi-camera-setup?/designspark/electronics/knowledge-item/raspberry-pi-camera-setup=)   
+On Windows:   
+[Path to nc.exe]\nc.exe -L -p 5001 | [Path to mplayer.exe]\mplayer.exe -fps 31 -cache 1024 -
+
+On Pi:   
+pi@raspberrypi:~ $ sudo raspivid -t 999999 -o -| nc 192.168.10.146 5001
