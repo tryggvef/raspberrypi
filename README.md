@@ -24,6 +24,12 @@ For Python 3.3+
 $ wget https://github.com/samjabrahams/tensorflow-on-raspberry-pi/raw/master/bin/tensorflow-0.9.0-py3-none-any.whl
 $ sudo pip install tensorflow-0.9.0-py3-none-any.whl
 
+
+TensorFlow-Examples   
+https://www.tensorflow.org/versions/r0.7/tutorials/mnist/beginners/index.html   
+https://github.com/aymericdamien/TensorFlow-Examples   
+https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/0_Prerequisite/ml_introduction.ipynb
+
 ###Docker
 While we’ve noticed people using Docker on Raspberry Pi for a while now, the latest release officially includes Raspbian Jessie installation support. You can now install the Docker client on your Raspberry Pi with just one terminal command:
 
@@ -50,3 +56,9 @@ On Windows:
 
 On Pi:   
 pi@raspberrypi:~ $ sudo raspivid -t 999999 -o -| nc 192.168.10.146 5001
+
+### Alexa
+https://github.com/amzn/alexa-avs-raspberry-pi
+
+### GTX 1080
+http://textminingonline.com/dive-into-tensorflow-part-iii-gtx-1080-ubuntu16-04-cuda8-0-cudnn5-0-tensorflow
