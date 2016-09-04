@@ -1,6 +1,18 @@
 # Raspberry Pi
 This is just a collection of tips and tricks coming handy when working with the Raspberry Pi 3.
 
+###Getting started  
+https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/quick-start/
+
+###Reading sensor values
+https://www.raspberrypi.org/forums/viewtopic.php?t=95017&p=662870
+
+###Watson
+Connect a Raspberry Pi to IBM Watson IoT Platform  
+https://developer.ibm.com/recipes/tutorials/raspberry-pi-4/
+Build an IoT Bluemix app in Node.js with sensors on Raspberry Pi  
+https://developer.ibm.com/recipes/tutorials/build-an-iot-bluemix-app-in-node-js-with-sensors-on-raspberry-pi/
+
 ###Remote control
 ngrok   
 https://kodyvajjha.wordpress.com/2015/06/24/ssh-ing-into-the-raspberry-pi-over-the-internet/
