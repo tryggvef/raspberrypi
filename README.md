@@ -45,6 +45,9 @@ https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/0_Pre
 Div PDF's  
 https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf  
 
+Learning Tensorflow   
+http://www.learningtensorflow.com
+
 ###Docker
 While we’ve noticed people using Docker on Raspberry Pi for a while now, the latest release officially includes Raspbian Jessie installation support. You can now install the Docker client on your Raspberry Pi with just one terminal command:
 
