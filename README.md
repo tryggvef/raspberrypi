@@ -2,7 +2,8 @@
 This is just a collection of tips and tricks coming handy when working with the Raspberry Pi 3.
 
 ###Getting started  
-https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/quick-start/
+https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/quick-start/   
+https://paulstamatiou.com/getting-started-raspberry-pi/
 
 ###Reading sensor values
 https://www.raspberrypi.org/forums/viewtopic.php?t=95017&p=662870
