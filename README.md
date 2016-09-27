@@ -43,6 +43,8 @@ https://www.tensorflow.org/versions/r0.7/tutorials/mnist/beginners/index.html
 https://github.com/aymericdamien/TensorFlow-Examples   
 https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/0_Prerequisite/ml_introduction.ipynb
 
+http://makeyourownneuralnetwork.blogspot.no/2016/03/ipython-neural-networks-on-raspberry-pi.html
+
 Div PDF's  
 https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf  
 
