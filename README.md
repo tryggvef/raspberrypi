@@ -3,7 +3,6 @@ This is just a collection of tips and tricks coming handy when working with the 
 
 ###Getting started  
 http://blog.jongallant.com/2016/09/raspberry-pi-nodejs-base-image.html
-https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/quick-start/   
 https://paulstamatiou.com/getting-started-raspberry-pi/   
 
 ###Reading sensor values
